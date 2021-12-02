@@ -8,12 +8,13 @@ assignees: HarvsG
 
 ---
 
-# Legend
-#:credit_card: Paid version only
-#:globe_with_meridians: Client can join as memeber of the full mesh
-#:eight_pointed_black_star: Client can join as a 'spoke' off a node/gateway on the mesh
-#:snowflake: Client can join the network but updates to the network are not automatically propgated to the client
-#:exclamation: Significant exception to the feature (you must specify what this exception is at the bottom of the issue)
+<!-- Legend
+:credit_card: Paid version only
+:globe_with_meridians: Client can join as memeber of the full mesh
+:eight_pointed_black_star: Client can join as a 'spoke' off a node/gateway on the mesh
+:snowflake: Client can join the network but updates to the network are not automatically propgated to the client
+[:exclamation:<sup>0<sup>]() Significant exception to the feature (you must specify what this exception is at the bottom of the issue)
+-->
 
 # Please add and delete the emoji as appropriate and add any from the legend above
 - Software name: 
