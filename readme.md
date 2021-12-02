@@ -1,4 +1,4 @@
-| Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows Exit/Gateway Node | Can advertise subnet behind client | NAT traversal | Linux | Windows | Android | iOS spoke | OpenWRT Support | Link |
+| Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | Android | iOS | OpenWRT | Link |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | https://www.wireguard.com/repositories/ |
 | Tailscale | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :white_check_mark: | https://github.com/tailscale/tailscale |
