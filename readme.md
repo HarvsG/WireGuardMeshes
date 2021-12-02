@@ -20,7 +20,7 @@
 - :free: Has free tier
 - :three: Limited amount on free tier (e.g 3)
 - :credit_card: Paid version only
-- :globe_with_meridians: Client can join as memeber of the full mesh
+- :globe_with_meridians: Client can join as member of the full mesh
 - :eight_pointed_black_star: Client can join as a 'spoke' off a node/gateway on the mesh
 - :snowflake: Client can join the network but updates to the network are not automatically propgated to the client
 - [:exclamation:<sup>0<sup>](https://github.com/HarvsG/WireGuardMeshes/blob/main/readme.md#legend) Significant exception to the feature (should link to explanation)
