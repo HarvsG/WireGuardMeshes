@@ -13,7 +13,7 @@
 | Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
 
 
-:three: Limited amount on free tier (e.g 3)
-:credit_card: Paid version only
-:globe_with_meridians: Client can join as memeber of the full mesh
-:eight_spoked_asterisk: Client can join as a 'spoke' off a node/gateway on the mesh
+- :three: Limited amount on free tier (e.g 3)
+- :credit_card: Paid version only
+- :globe_with_meridians: Client can join as memeber of the full mesh
+- :eight_spoked_asterisk: Client can join as a 'spoke' off a node/gateway on the mesh
