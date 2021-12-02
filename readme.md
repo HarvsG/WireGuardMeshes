@@ -4,8 +4,8 @@
 ## Table
 | Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | MacOS | Android | iOS | OpenWRT | Custom DNS | Link |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :white_check_mark: | https://www.wireguard.com/repositories/ |
-| Tailscale | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :white_check_mark: | :white_check_mark: | https://github.com/tailscale/tailscale |
+| Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :white_check_mark: | https://www.wireguard.com/repositories/ |
+| Tailscale | :white_check_mark: | :x::free: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :white_check_mark: | :white_check_mark: | https://github.com/tailscale/tailscale |
 | Headscale | :white_check_mark: |  | :white_check_mark: | :white_check_mark: | Unlimited |  | :white_check_mark: |  | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :x: | :x: |  | :white_check_mark: | https://github.com/juanfont/headscale |
 | Netmaker |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/gravitl/netmaker |
 | Nebula |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -17,13 +17,13 @@
 | Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
 
 ## Legend
-
+- :free: Has free tier
 - :three: Limited amount on free tier (e.g 3)
 - :credit_card: Paid version only
 - :globe_with_meridians: Client can join as memeber of the full mesh
-- :eight_spoked_asterisk: Client can join as a 'spoke' off a node/gateway on the mesh
+- :eight_pointed_black_star: Client can join as a 'spoke' off a node/gateway on the mesh
 - :snowflake: Client can join the network but updates to the network are not automatically propgated to the client
-- [:exclamation:](https://github.com/HarvsG/WireGuardMeshes/readme.md#Legend) Significant exception to the feature (should link to explanation)
+- [:exclamation:<sup>0<sup>](https://github.com/HarvsG/WireGuardMeshes/readme.md#Legend) Significant exception to the feature (should link to explanation)
 
 ## Disclaimer
  [WireGuard](https://wireguard.com/) is a registered trademark of Jason A. Donenfeld.
