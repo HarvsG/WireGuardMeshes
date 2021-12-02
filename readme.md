@@ -16,7 +16,7 @@
 | RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
 | Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
 
-##Legend
+## Legend
 
 - :three: Limited amount on free tier (e.g 3)
 - :credit_card: Paid version only
