@@ -1,3 +1,7 @@
+# Readme
+[WireGuard](https://wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography and supports mesh networking. However by default it requires manual configuartion. As such adding a new client to the network would require the admin to update O(n<sup>2</sup>) client configurations each time they add a new client. [wg-dynamic](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md) was a proposed WireGuard-native tool that would help with autoconfiguration, unfortunately development of this has gone stale. So here is a list of alternative tools instead.
+
+## Table
 | Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | Android | iOS | OpenWRT | Link |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | https://www.wireguard.com/repositories/ |
@@ -12,10 +16,17 @@
 | RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
 | Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
 
-
+##Legend
 - :three: Limited amount on free tier (e.g 3)
 - :credit_card: Paid version only
 - :globe_with_meridians: Client can join as memeber of the full mesh
 - :eight_spoked_asterisk: Client can join as a 'spoke' off a node/gateway on the mesh
 - :snowflake: Client can join the network but updates to the network are not automatically propgated to the client
-- [:exclamation:]() Significant exception to the feature (should link to explanation)
+- [:exclamation:](https://github.com/HarvsG/WireGuardMeshes/readme.md#Legend) Significant exception to the feature (should link to explanation)
+
+## Disclaimer
+ [WireGuard](https://wireguard.com/) is a registered trademark of Jason A. Donenfeld.
+ 
+## Changes
+Please help update this table by using pull requests or issues. You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
+
