@@ -17,3 +17,5 @@
 - :credit_card: Paid version only
 - :globe_with_meridians: Client can join as memeber of the full mesh
 - :eight_spoked_asterisk: Client can join as a 'spoke' off a node/gateway on the mesh
+- :snowflake: Client can join the network but updates to the network are not automatically propgated to the client
+- [:exclamation:]() Significant exception to the feature (should link to explanation)
