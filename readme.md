@@ -2,19 +2,19 @@
 [WireGuard](https://wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography and supports mesh networking. However by default it requires manual configuartion. As such adding a new client to the network would require the admin to update O(n<sup>2</sup>) client configurations each time they add a new client. [wg-dynamic](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md) was a proposed WireGuard-native tool that would help with autoconfiguration, unfortunately development of this has gone stale. So here is a list of alternative tools instead.
 
 ## Table
-| Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | Android | iOS | OpenWRT | Link |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | https://www.wireguard.com/repositories/ |
-| Tailscale | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :white_check_mark: | https://github.com/tailscale/tailscale |
-| Headscale |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/juanfont/headscale |
-| Netmaker |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/gravitl/netmaker |
-| Nebula |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| WGSD |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/jwhited/wgsd |
-| Innernet |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/tonarino/innernet |
-| Wesher |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/costela/wesher |
-| VxWireguard |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/m13253/VxWireguard-Generator |
-| RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
-| Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
+| Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | MacOS | Android | iOS | OpenWRT | Custom DNS | Link |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :eight_spoked_asterisk: | :white_check_mark: | https://www.wireguard.com/repositories/ |
+| Tailscale | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :white_check_mark: | :white_check_mark: | https://github.com/tailscale/tailscale |
+| Headscale | :white_check_mark: |  | :white_check_mark: | :white_check_mark: | Unlimited |  | :white_check_mark: |  | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :x: | :x: |  | :white_check_mark: | https://github.com/juanfont/headscale |
+| Netmaker |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/gravitl/netmaker |
+| Nebula |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WGSD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/jwhited/wgsd |
+| Innernet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/tonarino/innernet |
+| Wesher |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/costela/wesher |
+| VxWireguard |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/m13253/VxWireguard-Generator |
+| RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
+| Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
 
 ##Legend
 
