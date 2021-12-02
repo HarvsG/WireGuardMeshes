@@ -29,5 +29,5 @@
  [WireGuard](https://wireguard.com/) is a registered trademark of Jason A. Donenfeld.
  
 ## Changes
-Please help update this table by using pull requests or issues. You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
+Please help update this table by using [issues](https://github.com/HarvsG/WireGuardMeshes/issues) or [pull requests](https://github.com/HarvsG/WireGuardMeshes/pulls). You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
 
