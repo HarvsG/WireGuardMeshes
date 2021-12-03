@@ -5,9 +5,9 @@
 | Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | MacOS | Android | iOS | OpenWRT | Custom DNS | Link |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Vanilla WireGuard | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :white_check_mark: | https://www.wireguard.com/repositories/ |
-| Tailscale | :white_check_mark: | :x::free: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :white_check_mark: | :white_check_mark: | https://github.com/tailscale/tailscale |
-| Headscale | :white_check_mark: |  | :white_check_mark: | :white_check_mark: | Unlimited |  | :white_check_mark: |  | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :x: | :x: |  | :white_check_mark: | https://github.com/juanfont/headscale |
-| Netmaker |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/gravitl/netmaker |
+| Tailscale | :white_check_mark: | :x::free: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :white_check_mark: | :white_check_mark: | https://github.com/tailscale/tailscale |
+| Headscale | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: |  | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :x: | :x: | :white_check_mark: | :white_check_mark: | https://github.com/juanfont/headscale |
+| Netmaker | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | white_check_mark | :x: |  |  |  |  |  |  | :x: | :x: | :white_check_mark: |  | https://github.com/gravitl/netmaker |
 | Nebula |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | WGSD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/jwhited/wgsd |
 | Innernet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/tonarino/innernet |
@@ -19,6 +19,7 @@
 ## Legend
 - :free: Has free tier
 - :three: Limited amount on free tier (e.g 3)
+- :lock_with_ink_pen: This software version is closed source
 - :credit_card: Paid version only
 - :globe_with_meridians: Client can join as member of the full mesh
 - :eight_pointed_black_star: Client can join as a 'spoke' off a node/gateway on the mesh
