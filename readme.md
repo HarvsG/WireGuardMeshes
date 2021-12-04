@@ -8,7 +8,6 @@
 | Tailscale | :white_check_mark: | :x::free: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: :one: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :white_check_mark: | :white_check_mark: | https://github.com/tailscale/tailscale |
 | Headscale | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: |  | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :x: | :x: | :white_check_mark: | :white_check_mark: | https://github.com/juanfont/headscale |
 | Netmaker | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: |  |  |  |  |  |  | :x: | :x: | :white_check_mark: |  | https://github.com/gravitl/netmaker |
-| Nebula |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | WGSD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/jwhited/wgsd |
 | Innernet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/tonarino/innernet |
 | Wesher |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/costela/wesher |
