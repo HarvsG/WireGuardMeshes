@@ -10,7 +10,7 @@
 | Netmaker | :white_check_mark:[:exclamation:<sup>1<sup>](#nmexplain1) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :eight_pointed_black_star::snowflake: | :eight_pointed_black_star::snowflake: | :white_check_mark: | :white_check_mark: | https://github.com/gravitl/netmaker |
 | WGSD | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | Unlimited | :x: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | :x: | https://github.com/jwhited/wgsd |
 | Innernet | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | Unlimited | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | :x: | :x: |  | https://github.com/tonarino/innernet |
-| Wesher |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/costela/wesher |
+| Wesher | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: |  |  |  | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | :x: | https://github.com/costela/wesher |
 | VxWireguard |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/m13253/VxWireguard-Generator |
 | RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
 | Wiretrustee |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/wiretrustee/wiretrustee |
