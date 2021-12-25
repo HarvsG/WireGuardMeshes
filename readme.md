@@ -13,7 +13,7 @@
 | Wesher | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: |  |  |  | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | :x: | https://github.com/costela/wesher |
 | VxWireguard |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/m13253/VxWireguard-Generator |
 | RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
-| Wiretrustee | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | ⏲️ | :white_check_mark: |  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | ⏲️ | https://github.com/wiretrustee/wiretrustee |
+| Wiretrustee | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :soon: | :white_check_mark: |  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | :soon: | https://github.com/wiretrustee/wiretrustee |
   
  <sup>0</sup><a name="tsexplain1">Tailscale's client code is open source. Tailscale's control server code is entirely closed source (It's a SaaS product).</a>  
  <sup>1</sup><a name="nmexplain1">Netmaker uses the SSPL license, which is not an "official" open source license occording to the OSI.</a>  
@@ -26,6 +26,7 @@
 - :globe_with_meridians: Client can join as member of the full mesh
 - :eight_pointed_black_star: Client can join as a 'spoke' off a node/gateway on the mesh
 - :snowflake: Client can join the network but updates to the network are not automatically propgated to the client
+- :soon: Developer claims the feature is coming soon
 - [:exclamation:<sup>0<sup>](https://github.com/HarvsG/WireGuardMeshes/blob/main/readme.md#legend) Significant exception to the feature (should link to explanation)
 
 ## Disclaimer
