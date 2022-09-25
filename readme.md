@@ -13,7 +13,7 @@
 | Wesher | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: |  |  |  | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | :x: | https://github.com/costela/wesher |
 | VxWireguard |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://github.com/m13253/VxWireguard-Generator |
 | RAIT |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | https://gitlab.com/NickCao/RAIT |
-| Netbird | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: |  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :white_check_mark: | :soon: | https://github.com/netbirdio/netbird |
+| Netbird | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :white_check_mark: | :soon: | https://github.com/netbirdio/netbird |
 | wgmesh | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: | https://github.com/aschmidt75/wgmesh |
   
  <sup>0</sup><a name="tsexplain1">Tailscale's client code is open source. Tailscale's control server code is entirely closed source (It's a SaaS product).</a>  
