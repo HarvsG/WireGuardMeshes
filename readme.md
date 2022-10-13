@@ -53,5 +53,5 @@ Please help update this table by using [issues](https://github.com/HarvsG/WireGu
 | MacOS | Can the project be installed and a MacOS machine. |
 | Android | Is there an Android App and can it connect to every other peer. |
 | iOS | Is there an iOS App and can it connect to every other peer. |
-| OpenWRT | Can the project be installed and an OpenWRT router. Useful if you want everything on your nextwork to be able to access the devices on the mesh |
+| OpenWRT | Can the project be installed and an OpenWRT router. Useful if you want everything on your network to be able to access the devices on the mesh |
 | Custom DNS | Can the DNS provider used by all peers be configured centrally. |
