@@ -45,7 +45,7 @@ Please help update this table by using [issues](https://github.com/HarvsG/WireGu
 | Auto conf | When a new peer is added to the mesh, are all other peers update automatically. |
 | Devices | How many devices can the mesh support. |
 | Supports Users | Does the project allow users to be configured, usually for user access control. |
-| Allows full tunnel | Is the project capable of tunnelling all traffic over the `wg` connection. |
+| Allows full tunnel | Is the project capable of tunnelling external traffic over one of the peers. |
 | Subnet Access | Can a device 'expose' the devices on its subnet to peers, usually using `AllowedIPs`. This could allow you to access resources on your home network if your router was connected to the mesh, for example. |
 | NAT traversal | Can two peers that are each behind a separate NAT communicate with one another. This usually requires some other non-NATed central peer to update each NATed peer with the other's IP and port. |
 | Linux | Can the project be set up on a Linux machine e.g Ubuntu |
