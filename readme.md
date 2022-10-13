@@ -37,3 +37,21 @@
 ## Changes
 Please help update this table by using [issues](https://github.com/HarvsG/WireGuardMeshes/issues) or [pull requests](https://github.com/HarvsG/WireGuardMeshes/pulls). You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
 
+## Columns
+Feature\Software: The name and hyperlink to the project's main repository or website
+Open source: Is the project open source
+Free: Is the project entirely free to download, install and use
+Full Mesh: Does the project allow every peer to communicate with every other peer directly. Relying on `AllowedIPs` to route traffic via a central peer does not count.
+Auto conf: When a new peer is added to the mesh, are all other peers update automatically.
+Devices: How many devices can the mesh support
+Supports Users: Does the project allow users to be configured, usually for user access control.
+Allows full tunnel: Is the project capable of tunnelling all traffic over the `wg` connection.
+Subnet Access: Can a device 'expose' the devices on its subnet to peers, usually using `AllowedIPs`. This could allow you to access resources on your home network if your router was connected to the mesh, for example.
+NAT traversal: Can two peers that are each behind a separate NAT communicate with one another. This usually requires some other non-NATed central peer to update each NATed peer with the other's IP and port.
+Linux: Can the project be set up on a Linux machine e.g Ubuntu
+Windows: Can the project be installed and a Windows machine.
+MacOS: Can the project be installed and a MacOS machine.
+Android: Is there an Android App and can it connect to every other peer.
+iOS: Is there an iOS App and can it connect to every other peer.
+OpenWRT: Can the project be installed and an OpenWRT machine.
+Custom DNS: Can the DNS provider used by all peers be configured centrally.
