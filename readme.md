@@ -41,16 +41,16 @@ Please help update this table by using [issues](https://github.com/HarvsG/WireGu
 | Feature\Software | The name and hyperlink to the project's main repository or website. |
 | Open source | Is the project open source. |
 | Free | Is the project entirely free to download, install and use. |
-| Full Mesh | Does the project allow every peer to communicate with every other peer directly. Relying on `AllowedIPs` to route traffic via a central peer does not count. |
-| Auto conf | When a new peer is added to the mesh, are all other peers update automatically. |
+| Full Mesh | Does the project allow every peer to communicate with every other peer directly. Relying on `AllowedIPs` to route traffic via a central peer in a hub and spoke model does not count. |
+| Auto conf | When a new peer is added to the mesh, are all other peers update automatically. Usually a requirement to be featured in this repo |
 | Devices | How many devices can the mesh support. |
 | Supports Users | Does the project allow users to be configured, usually for user access control. |
-| Allows full tunnel | Is the project capable of tunnelling external traffic over one of the peers. |
-| Subnet Access | Can a device 'expose' the devices on its subnet to peers, usually using `AllowedIPs`. This could allow you to access resources on your home network if your router was connected to the mesh, for example. |
-| NAT traversal | Can two peers that are each behind a separate NAT communicate with one another. This usually requires some other non-NATed central peer to update each NATed peer with the other's IP and port. |
+| Allows full tunnel | Is the project capable of tunnelling all external traffic over at least one of the peers. |
+| Subnet Access | Can a device 'expose' the devices on its subnet to peers, usually using wiregaurd's `AllowedIPs`. This could allow you to access resources on your home network if your router was connected to the mesh, for example. |
+| NAT traversal | Can two peers that are each behind a separate NAT communicate with one another. This usually requires some other non-NATed central peer to update each NATed peer with the other's IP and port. Sometimes called NAT hole-punching |
 | Linux | Can the project be set up on a Linux machine e.g Ubuntu |
-| Windows | Can the project be installed and a Windows machine. |
-| MacOS | Can the project be installed and a MacOS machine. |
+| Windows | Can the project be installed on a Windows machine. |
+| MacOS | Can the project be installed on a MacOS machine. |
 | Android | Is there an Android App and can it connect to every other peer. |
 | iOS | Is there an iOS App and can it connect to every other peer. |
 | OpenWRT | Can the project be installed on an OpenWRT router. Useful if you want everything on your network to be able to access the devices on the mesh |
