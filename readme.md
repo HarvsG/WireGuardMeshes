@@ -17,8 +17,11 @@
 
   
  <sup>0</sup><a name="tsexplain1">Tailscale's client code is open source. Tailscale's control server code is entirely closed source (It's a SaaS product).</a>  
+  
  <sup>1</sup><a name="nmexplain1">Netmaker uses the SSPL license, which is not an "official" open source license occording to the OSI.</a>  
+  
  <sup>2</sup><a name="hsexplain1">Headscale uses the tailscale android client. <a href="https://github.com/juanfont/headscale/blob/main/docs/android-client.md">Instructions</a></a>
+  
  <sup>3</sup><a name="tsexplain2">When routing all traffic through an exit node tailscale ignores custom DNS. <a href="https://forum.tailscale.com/t/undocumented-exit-node-feature-dns-resolution/4604">Issue</a></a>
  
 ## Legend
