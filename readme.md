@@ -14,7 +14,7 @@
 | [Netbird](https://github.com/netbirdio/netbird) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :white_check_mark: | :white_check_mark: |
 | [wgmesh](https://github.com/aschmidt75/wgmesh) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [wiresmith](https://github.com/svenstaro/wiresmith) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :x: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: |
-
+| [webmesh](https://github.com/webmeshproj/webmesh) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :eight_pointed_black_star: | :eight_pointed_black_star: | :soon: | :soon: | :soon: | :white_check_mark: |
   
  <sup>0</sup><a name="tsexplain1">Tailscale's client code is open source. Tailscale's control server code is entirely closed source (It's a SaaS product).</a>  
   
@@ -23,7 +23,7 @@
  <sup>2</sup><a name="hsexplain1">Headscale uses the tailscale mobile clients. <a href="https://github.com/juanfont/headscale/blob/main/docs/android-client.md">Andriod nstructions</a></a>. <a href="https://github.com/juanfont/headscale/blob/main/docs/iOS-client.md">iOS</a></a>
   
  <sup>3</sup><a name="tsexplain2">When routing all traffic through an exit node tailscale ignores custom DNS. <a href="https://github.com/tailscale/tailscale/issues/8237">Issue</a></a>
- 
+
 ## Legend
 - :free: Has free tier
 - :three: Limited amount on free tier (e.g 3)
