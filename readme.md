@@ -43,7 +43,7 @@
 ## Disclaimers
 - [WireGuard](https://wireguard.com/) is a registered trademark of Jason A. Donenfeld.
 - I do not independently verify each of the features and generally rely on the honesty of contributors please open an issue if you find any mistakes.
-- 
+
 ## Changes
 Please help update this table by using [issues](https://github.com/HarvsG/WireGuardMeshes/issues) or [pull requests](https://github.com/HarvsG/WireGuardMeshes/pulls). You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
 
