@@ -4,7 +4,7 @@
 ## Table
 | Feature\Software | Open source | Free | Full Mesh | Auto conf | Devices | Supports Users | Allows full tunnel | Subnet Access | NAT traversal | Linux | Windows | MacOS | Android | iOS | OpenWRT | Custom DNS |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| [Vanilla WireGuard](https://www.wireguard.com/repositories/) | :white_check_mark: | :white_check_mark: | :x: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :white_check_mark: |
+| [Vanilla WireGuard](https://www.wireguard.com/repositories/) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :x: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :eight_pointed_black_star: | :white_check_mark: |
 | [Tailscale](https://github.com/tailscale/tailscale) | :white_check_mark:[:exclamation:<sup>0<sup>](#tsexplain1) | :x::free: | :white_check_mark: | :white_check_mark: | Unlimited :one::zero::zero: | :white_check_mark: :three: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians::lock_with_ink_pen: | :globe_with_meridians: | :globe_with_meridians::lock_with_ink_pen: | :white_check_mark: | :white_check_mark: [:exclamation:<sup>3<sup>](#tsexplain2) |
 | [Headscale](https://github.com/juanfont/headscale) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians:[:exclamation:<sup>2<sup>](#hsexplain1) | :globe_with_meridians::lock_with_ink_pen:[:exclamation:<sup>2<sup>](#hsexplain1) | :white_check_mark: | :white_check_mark: |
 | [Netmaker](https://github.com/gravitl/netmaker) | :white_check_mark:[:exclamation:<sup>1<sup>](#nmexplain1) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :eight_pointed_black_star::snowflake: | :eight_pointed_black_star::snowflake: | :white_check_mark: | :white_check_mark: |
@@ -15,6 +15,7 @@
 | [wgmesh](https://github.com/aschmidt75/wgmesh) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [wiresmith](https://github.com/svenstaro/wiresmith) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :x: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [webmesh](https://github.com/webmeshproj/webmesh) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :soon: | :soon: | :soon: | :white_check_mark: |
+| [NordVPN Meshnet](https://github.com/NordSecurity/libtelio) | :white_check_mark: [:exclamation:<sup>4<sup>](#nvmexplain1) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Internal :one::zero: External :five::zero: [:exclamation:<sup>5<sup>](#nvmexplain2) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: :lock_with_ink_pen: | :globe_with_meridians: :lock_with_ink_pen: | :globe_with_meridians: :lock_with_ink_pen: | :globe_with_meridians: :lock_with_ink_pen: | :soon: | :white_check_mark: |
   
  <sup>0</sup><a name="tsexplain1">Tailscale's client code is open source. Tailscale's control server code is entirely closed source (It's a SaaS product).</a>  
   
@@ -24,6 +25,10 @@
   
  <sup>3</sup><a name="tsexplain2">When routing all traffic through an exit node tailscale ignores custom DNS. <a href="https://github.com/tailscale/tailscale/issues/8237">Issue</a></a>
 
+ <sup>4</sup><a name="nvmexplain1">Open source parts: `libtelio` - multiplatform meshnet library, `nordvpn-linux` - vpn client app for linux with integrated meshnet feature, `libdrop` - multiplatform file-sharing-over-meshnet library.</a>
+
+ <sup>5</sup><a name="nvmexplain2">Internal - peers with own user devices. External - peers with other users' devices.</a>
+ 
 ## Legend
 - :free: Has free tier
 - :three: Limited amount on free tier (e.g 3)
