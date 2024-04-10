@@ -11,7 +11,7 @@
 | [WGSD](https://github.com/jwhited/wgsd) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | Unlimited | :x: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | :x: | :white_check_mark: | :x: |
 | [Innernet](https://github.com/tonarino/innernet ) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | Unlimited | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | :x: | :x: |  |
 | [Wesher](https://github.com/costela/wesher) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: |  |  |  | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | :x: |
-| [Netbird](https://github.com/netbirdio/netbird) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :white_check_mark: | :white_check_mark: |
+| [Netbird](https://github.com/netbirdio/netbird) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited :two::zero: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :soon: | :white_check_mark: | :white_check_mark: |
 | [wgmesh](https://github.com/aschmidt75/wgmesh) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :white_check_mark: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [wiresmith](https://github.com/svenstaro/wiresmith) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :x: | :x: | :x: | :x: | :globe_with_meridians: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [webmesh](https://github.com/webmeshproj/webmesh) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Unlimited | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :globe_with_meridians: | :globe_with_meridians: | :globe_with_meridians: | :soon: | :soon: | :soon: | :white_check_mark: |
@@ -45,7 +45,7 @@
 - I do not independently verify each of the features and generally rely on the honesty of contributors please open an issue if you find any mistakes.
 
 ## Changes
-Please help update this table by using [issues](https://github.com/HarvsG/WireGuardMeshes/issues) or [pull requests](https://github.com/HarvsG/WireGuardMeshes/pulls). You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
+Please help update this table by using [议题](https://github.com/HarvsG/WireGuardMeshes/issues) 或 [拉取请求](https://github.com/HarvsG/WireGuardMeshes/pulls). You may find https://www.tablesgenerator.com/markdown_tables helpful (File -> paste table data)
 
 ## Columns
 | Column | Description |
