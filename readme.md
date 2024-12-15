@@ -21,7 +21,7 @@
   
  <sup>1</sup><a name="nmexplain1">Netmaker uses the SSPL license, which is not an "official" open source license occording to the OSI.</a>  
   
- <sup>2</sup><a name="hsexplain1">Headscale uses the tailscale mobile clients. <a href="https://github.com/juanfont/headscale/blob/main/docs/android-client.md">Andriod nstructions</a></a>. <a href="https://github.com/juanfont/headscale/blob/main/docs/iOS-client.md">iOS</a></a>
+ <sup>2</sup><a name="hsexplain1">Headscale uses the tailscale mobile clients. <a href="https://github.com/juanfont/headscale/blob/main/docs/android-client.md">Andriod instructions</a></a>. <a href="https://github.com/juanfont/headscale/blob/main/docs/iOS-client.md">iOS</a></a>
   
  <sup>3</sup><a name="tsexplain2">When routing all traffic through an exit node tailscale ignores custom DNS. <a href="https://github.com/tailscale/tailscale/issues/8237">Issue</a></a>
 
